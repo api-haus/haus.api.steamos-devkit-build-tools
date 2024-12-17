@@ -1,0 +1,15 @@
+{
+  "name": "haus.api.steamos-devkit-build-tools",
+  "displayName": "SteamOS DevKit Build Tools",
+  "version": "0.1.0",
+  "unity": "2021.1",
+  "description": "SteamOS DevKit Client tools to automate posting build notification from Unity.",
+  "keywords": [
+    "steamos",
+    "editor tools",
+    "postprocess build"
+  ],
+  "dependencies": {
+    "com.unity.editorcoroutines": "1.0.0"
+  }
+}
